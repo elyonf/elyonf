@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elyonf
 - 👀 I’m interested in data analytics, healthcare and personal finance
-- 🌱 I’m currently learning SQL ... and soon Python or Julia
+- 🌱 I’m currently learning SQL ... and soon Python
 - 💞️ I’m looking to collaborate on SQL projects 
 - 📫 How to reach me: www.linkedin.com/in/elyon-famoriyo
 
