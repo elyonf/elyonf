@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elyonf
-- 👀 I’m interested in data analytics, healthcare and personal finance
-- 🌱 I’m currently learning SQL ... and soon Python
-- 💞️ I’m looking to collaborate on SQL projects 
+- 👀 I’m interested in data analytics, product, healthcare and personal finance
+- 🌱 I’m currently learning SQL, css, html and javascript
+- 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me: www.linkedin.com/in/elyon-famoriyo
 
 <!---
